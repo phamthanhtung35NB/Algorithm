@@ -16,6 +16,5 @@ void insertionSort (int a[], int n) {
   }
 }
 // Độ phức tạp: O(n^2).
-
 // Thuật toán này chỉ thích hợp với mảng đã được sắp xếp một phần,
 // còn với mảng ngẫu nhiên thì thuật toán này phế hơn cả sắp xếp nổi bọt do hoán vị quá nhiều.
