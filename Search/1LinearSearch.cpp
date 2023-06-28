@@ -5,3 +5,4 @@ int linearSearch (int a[], int n, int x) {
     else return -1; //trả về -1 nếu ko tìm thấy
   }
 }
+Mọi thứ đều được cập nhật
